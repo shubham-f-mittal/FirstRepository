@@ -1,1 +1,1 @@
-Hi This is the new file which has been added from git online application file.
+Hi This is the new file which has been added from git online application file. This is an added statement.
